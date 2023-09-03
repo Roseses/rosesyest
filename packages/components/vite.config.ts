@@ -5,9 +5,9 @@ import dts from 'vite-plugin-dts';
 // @ts-ignore
 import DefineOptions from 'unplugin-vue-define-options/vite';
 export default defineConfig({
-  test: {
-    environment: 'happy-dom'
-  },
+  // test: {
+  //   environment: 'happy-dom'
+  // },
   build: {
     //压缩
     //minify: false,
