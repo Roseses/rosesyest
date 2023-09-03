@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@roses/utils": "workspace:^1.0.0"
+    "@roseslove/utils": "workspace:^1.0.0"
   },
   "devDependencies": {
     "@vitest/coverage-c8": "^0.29.2"

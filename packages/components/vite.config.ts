@@ -13,7 +13,7 @@ export default defineConfig({
     //minify: false,
     rollupOptions: {
       //忽略不需要打包的文件
-      external: ['vue', /\.less/, '@roses/utils'],
+      external: ['vue', /\.less/, '@roseslove/utils'],
       input: ['index.ts'],
       output: [
         {

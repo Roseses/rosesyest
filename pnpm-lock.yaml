@@ -152,7 +152,7 @@ importers:
 
   packages/components:
     dependencies:
-      '@roses/utils':
+      '@roseslove/utils':
         specifier: workspace:^1.0.0
         version: link:../utils
     devDependencies:
@@ -162,7 +162,7 @@ importers:
 
   packages/roses:
     dependencies:
-      '@roses/utils':
+      '@roseslove/utils':
         specifier: ^1.0.0
         version: link:../utils
 
